@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TestPad/1.0.0": {
+        "dependencies": {
+          "WorkflowModule": "1.0.0"
+        },
+        "runtime": {
+          "TestPad.dll": {}
+        }
+      },
+      "WorkflowModule/1.0.0": {
+        "runtime": {
+          "WorkflowModule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestPad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkflowModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

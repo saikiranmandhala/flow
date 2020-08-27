@@ -1,0 +1,8 @@
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\bin\Debug\netstandard2.0\WorkflowModule.deps.json
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\bin\Debug\netstandard2.0\WorkflowModule.dll
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\bin\Debug\netstandard2.0\WorkflowModule.pdb
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\obj\Debug\netstandard2.0\WorkflowModule.AssemblyInfoInputs.cache
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\obj\Debug\netstandard2.0\WorkflowModule.AssemblyInfo.cs
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\obj\Debug\netstandard2.0\WorkflowModule.csproj.CoreCompileInputs.cache
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\obj\Debug\netstandard2.0\WorkflowModule.dll
+C:\Users\saiki\source\repos\Workflow\WorkflowModule\obj\Debug\netstandard2.0\WorkflowModule.pdb
